@@ -43,4 +43,4 @@ mvn clean install -DskipTests
 mvn spring-boot:run
 
 ## Author
-Koyena Ghosh
+Sehaj Sukhleen Singh
